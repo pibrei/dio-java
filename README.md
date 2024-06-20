@@ -18,3 +18,4 @@ Durante o bootcamp, você terá acesso a aulas práticas, exercícios desafiador
 Estamos muito felizes em tê-lo conosco nesta jornada de aprendizado. Esperamos que você aproveite ao máximo o conteúdo disponibilizado e que este bootcamp seja o ponto de partida para uma carreira promissora na área de desenvolvimento de software.
 
 Desejamos a você muito sucesso e estamos à disposição para ajudá-lo em sua jornada. Vamos começar!
+teste
